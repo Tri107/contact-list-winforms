@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2\\ContactList\\",
+  "WorkspaceRootPath": "D:\\Code\\C#\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|d:\\2\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|d:\\2\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|d:\\code\\c#\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|d:\\2\\contactlist\\contactlist\\add-contact-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72E27A1-F4DE-4404-8771-2A9533EA9AFC}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\add-contact-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Bookmark",
@@ -47,49 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\2\\ContactList\\ContactList\\MainForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "D:\\2\\ContactList\\ContactList\\MainForm.cs",
-              "RelativeToolTip": "ContactList\\MainForm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:36:08.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Add-Contact-Form.cs [Design]",
-              "DocumentMoniker": "D:\\2\\ContactList\\ContactList\\Add-Contact-Form.cs",
-              "RelativeDocumentMoniker": "ContactList\\Add-Contact-Form.cs",
-              "ToolTip": "D:\\2\\ContactList\\ContactList\\Add-Contact-Form.cs [Design]",
-              "RelativeToolTip": "ContactList\\Add-Contact-Form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:34:46.89Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\2\\ContactList\\ContactList\\MainForm.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "D:\\2\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "ToolTip": "D:\\Code\\C#\\ContactList\\ContactList\\MainForm.cs [Design]",
               "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:07:12.564Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 231,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
